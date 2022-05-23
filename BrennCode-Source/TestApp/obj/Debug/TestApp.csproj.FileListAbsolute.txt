@@ -1,0 +1,11 @@
+C:\Users\c0nta\source\repos\BrennCode\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\c0nta\source\repos\BrennCode\TestApp\bin\Debug\TestApp.exe
+C:\Users\c0nta\source\repos\BrennCode\TestApp\bin\Debug\TestApp.pdb
+C:\Users\c0nta\source\repos\BrennCode\TestApp\bin\Debug\BrennCode.pdb
+C:\Users\c0nta\source\repos\BrennCode\TestApp\obj\Debug\TestApp.csproj.AssemblyReference.cache
+C:\Users\c0nta\source\repos\BrennCode\TestApp\obj\Debug\TestApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\c0nta\source\repos\BrennCode\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\c0nta\source\repos\BrennCode\TestApp\obj\Debug\TestApp.csproj.CopyComplete
+C:\Users\c0nta\source\repos\BrennCode\TestApp\obj\Debug\TestApp.exe
+C:\Users\c0nta\source\repos\BrennCode\TestApp\obj\Debug\TestApp.pdb
+C:\Users\c0nta\source\repos\BrennCode\TestApp\bin\Debug\BrennCode.dll

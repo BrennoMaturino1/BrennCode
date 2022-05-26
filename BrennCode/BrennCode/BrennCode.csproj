@@ -61,7 +61,7 @@
   <ItemGroup>
     <Compile Include="ColorfulConsole.cs" />
     <Compile Include="Info.cs" />
-    <Compile Include="Math.cs" />
+    <Compile Include="BMath.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

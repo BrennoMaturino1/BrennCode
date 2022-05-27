@@ -1,6 +1,0 @@
-C:\Users\c0nta\source\repos\BrennCode\BrennCode\bin\x64\Debug\BrennCode.dll
-C:\Users\c0nta\source\repos\BrennCode\BrennCode\bin\x64\Debug\BrennCode.pdb
-C:\Users\c0nta\source\repos\BrennCode\BrennCode\obj\x64\Debug\BrennCode.csproj.AssemblyReference.cache
-C:\Users\c0nta\source\repos\BrennCode\BrennCode\obj\x64\Debug\BrennCode.csproj.CoreCompileInputs.cache
-C:\Users\c0nta\source\repos\BrennCode\BrennCode\obj\x64\Debug\BrennCode.dll
-C:\Users\c0nta\source\repos\BrennCode\BrennCode\obj\x64\Debug\BrennCode.pdb

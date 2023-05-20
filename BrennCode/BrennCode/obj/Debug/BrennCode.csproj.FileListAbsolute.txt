@@ -1,0 +1,6 @@
+C:\Users\User 01\source\repos\BrennCode\BrennCode\bin\Debug\BrennCode.dll
+C:\Users\User 01\source\repos\BrennCode\BrennCode\bin\Debug\BrennCode.pdb
+C:\Users\User 01\source\repos\BrennCode\BrennCode\obj\Debug\BrennCode.csproj.AssemblyReference.cache
+C:\Users\User 01\source\repos\BrennCode\BrennCode\obj\Debug\BrennCode.csproj.CoreCompileInputs.cache
+C:\Users\User 01\source\repos\BrennCode\BrennCode\obj\Debug\BrennCode.dll
+C:\Users\User 01\source\repos\BrennCode\BrennCode\obj\Debug\BrennCode.pdb

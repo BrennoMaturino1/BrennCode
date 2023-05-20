@@ -1,0 +1,22 @@
+C:\Users\User 01\source\repos\BrennCode\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\User 01\source\repos\BrennCode\TestApp\bin\Debug\TestApp.exe
+C:\Users\User 01\source\repos\BrennCode\TestApp\bin\Debug\TestApp.pdb
+C:\Users\User 01\source\repos\BrennCode\TestApp\bin\Debug\BrennCode.dll
+C:\Users\User 01\source\repos\BrennCode\TestApp\bin\Debug\BrennCode.pdb
+C:\Users\User 01\source\repos\BrennCode\TestApp\obj\Debug\TestApp.csproj.AssemblyReference.cache
+C:\Users\User 01\source\repos\BrennCode\TestApp\obj\Debug\TestApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\User 01\source\repos\BrennCode\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\User 01\source\repos\BrennCode\TestApp\obj\Debug\TestApp.csproj.CopyComplete
+C:\Users\User 01\source\repos\BrennCode\TestApp\obj\Debug\TestApp.exe
+C:\Users\User 01\source\repos\BrennCode\TestApp\obj\Debug\TestApp.pdb
+C:\Users\Brenno\source\repos\BrennCode\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\Brenno\source\repos\BrennCode\TestApp\bin\Debug\TestApp.exe
+C:\Users\Brenno\source\repos\BrennCode\TestApp\bin\Debug\TestApp.pdb
+C:\Users\Brenno\source\repos\BrennCode\TestApp\bin\Debug\BrennCode.dll
+C:\Users\Brenno\source\repos\BrennCode\TestApp\bin\Debug\BrennCode.pdb
+C:\Users\Brenno\source\repos\BrennCode\TestApp\obj\Debug\TestApp.csproj.AssemblyReference.cache
+C:\Users\Brenno\source\repos\BrennCode\TestApp\obj\Debug\TestApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Brenno\source\repos\BrennCode\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\Brenno\source\repos\BrennCode\TestApp\obj\Debug\TestApp.csproj.CopyComplete
+C:\Users\Brenno\source\repos\BrennCode\TestApp\obj\Debug\TestApp.exe
+C:\Users\Brenno\source\repos\BrennCode\TestApp\obj\Debug\TestApp.pdb
